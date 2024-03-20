@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "CPP"
+		},
+		{
+			"path": "JS-Basic"
+		},
+		{
+			"path": "D:/jschan-master"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
